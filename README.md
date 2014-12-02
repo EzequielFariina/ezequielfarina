@@ -1,1 +1,1 @@
-# teste GitHub, enviando pastas para do site para o git
+# teste GitHub, enviando pastas do site para o git
